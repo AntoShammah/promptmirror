@@ -52,6 +52,7 @@ Contact
 For any queries or further discussions, you can reach me at:
 
 LinkedIn: https://www.linkedin.com/in/anto-shammah-2417as/
+
 Feel free to fork the project, provide feedback, and potentially contribute to its development!
 
 ## 📣 Made for tech creators ✨
